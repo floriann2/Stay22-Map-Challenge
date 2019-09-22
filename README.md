@@ -4,7 +4,7 @@
 
 ## Setup
 
-Local web server needed to generate/load the data files (Ex: XAMPP's Apache HTTP Server). Otherwise, please see the URL in description.  
+Local web server needed to generate/load the data files (Ex: XAMPP's Apache HTTP Server). Alternatively, please see https://stay22.floriann25.now.sh  
 
 ## What It Does/How It Works
 
