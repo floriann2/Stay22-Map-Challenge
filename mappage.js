@@ -16,7 +16,7 @@ accessToken: 'pk.eyJ1IjoiZmxvcmlhbi0iLCJhIjoiY2swc2pqMW12MDNjazNsbnZldHN6a3gzcyJ
 			draggable: true,
 			riseOnHover: true
 		});
-		marker.bindPopup('<strong>' + feature.properties.business_name + '</strong></br>' + feature.properties.description); 
+		marker.bindPopup('<strong>' + feature.properties.business_name + '</strong></br>' + feature.properties.street_address); 
 
 		var countHover = 0;
 		var countClick = 0;
