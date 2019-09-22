@@ -18,7 +18,7 @@ Using an open-source JS library (Leaflet) to build a web mapping application.
 3) If the hover count is > 4, a message below the map will generate. 
 4) If the click count is > 2, a different message below the map will generate.
 5) Click anywhere on the map to generate a new pinpoint. Since they are new areas, no name/description shall appear, just its specified coordinates.
-6) All pinpoints are draggable, adjusting to new coordinates (latitude, longitude).
+6) All pinpoints are draggable, adjusting to new coordinates (latitude, longitude), however keeping/adding to its original pin location's hover/click count!
 
 ```
 ## Technologies/Languages
