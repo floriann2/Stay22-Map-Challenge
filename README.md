@@ -14,6 +14,7 @@ Local web server needed to generate/load the data files (Ex: XAMPP's Apache HTTP
 Using an open-source JS library (Leaflet) to build a web mapping application.
 ```
 1) Hover over an existing pinpoint to view the business name, description at that location. 
+
 2) Click the pinpoint to view the # of times a user has hovered over that location (via alert message).
 3) If the hover count is > 4, a message below the map will generate. 
 4) If the click count is > 2, a different message below the map will generate.
