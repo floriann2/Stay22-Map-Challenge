@@ -16,10 +16,16 @@ Using an open-source JS library (Leaflet) to build a web mapping application.
 1) Hover over an existing pinpoint to view the business name, description at that location. 
 
 2) Click the pinpoint to view the # of times a user has hovered over that location (via alert message).
+
 3) If the hover count is > 4, a message below the map will generate. 
+
 4) If the click count is > 2, a different message below the map will generate.
+
 5) Click anywhere on the map to generate a new pinpoint. Since they are new areas, no name/description shall appear, just its specified coordinates.
+
 6) All pinpoints are draggable, adjusting to new coordinates (latitude, longitude), however saving its original pin location's hover/click count!
+
+7) Toggle the latest pinpoint added, to remove or bring it back onto the map. 
 
 ```
 ## Technologies/Languages
