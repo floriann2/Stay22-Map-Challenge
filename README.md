@@ -17,9 +17,9 @@ Using an open-source JS library (Leaflet) to build a web mapping application.
 
 2) Click the pinpoint to view the # of times a user has hovered over that location (via alert message).
 
-3) If the hover count is > 4, a message below the map will generate. 
+3) If the hover count is > 4, a message below the map will appear. 
 
-4) If the click count is > 2, a different message below the map will generate.
+4) If the click count is > 2, a different message below the map will appear.
 
 5) Click anywhere on the map to generate a new pinpoint. Since they are new areas, no name/description shall appear, just its specified coordinates.
 
