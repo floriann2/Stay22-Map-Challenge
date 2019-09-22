@@ -4,7 +4,7 @@
 
 ## Setup
 
-Local web server needed to generate/load the data files (Ex: XAMPP's Apache HTTP Server). Otherwise, please see URL above.  
+Local web server needed to generate/load the data files (Ex: XAMPP's Apache HTTP Server). Otherwise, please see the URL in description.  
 
 ## What It Does/How It Works
 
