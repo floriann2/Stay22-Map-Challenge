@@ -13,7 +13,7 @@ Local web server needed to generate/load the data files (Ex: XAMPP's Apache HTTP
 
 Using an open-source JS library (Leaflet) to build a web mapping application.
 
-## How I Built It
+## Technologies/Languages
 ```
 - HMTL/CSS (scripting/styling)
 - Vanilla JS + JQuery (functionality)
