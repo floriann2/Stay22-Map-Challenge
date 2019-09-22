@@ -24,5 +24,5 @@ How to use GeoJSON to represent simple geographical features on a map, such as p
 
 Mapbox vs. Leaflet
         
-Given the requirements of this technical challenge, I knew that Mapbox would be a bit complex to setup/run appropriately. Since I         wasn't dealing with a large amount of data but still needed some interactivity, Leaflet was my best choice. Leaflet provided me with simplicity in my design, and the performance in my functions needed to work efficiently across different platforms. I will surely use this application in future work involving maps!
+Given the requirements of this technical challenge, I knew that Mapbox wouldn't be the best choice, as its meant for complex maps which hold a lot of data. Since I wasn't dealing with a large amount of data but still needed some interactivity, Leaflet was my best choice. Leaflet provided me with simplicity in my design, and the performance needed for my application to work efficiently across different platforms. I will surely use this platform in future work involving maps!
         
