@@ -15,9 +15,9 @@ Using an open-source JS library (Leaflet) to build a web mapping application.
 
 ## How I Built It
 ```
-- HMTL/CSS
-- Vanilla JS + JQuery
-- JSON/GeoJSON.
+- HMTL/CSS (scripting/styling)
+- Vanilla JS + JQuery (functionality)
+- JSON/GeoJSON (generate/load data points)
 ```
 ## What I Learned 
 How to use GeoJSON to represent simple geographical features on a map, such as points and line strings.
