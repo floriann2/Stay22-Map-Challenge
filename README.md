@@ -6,9 +6,6 @@
 
 Local web server needed to generate/load the data files (Ex: XAMPP's Apache HTTP Server). Otherwise, please see below.  
 
-## Link to Webpage 
-
-
 ## What It Does/How It Works
 
 Using an open-source JS library (Leaflet) to build a web mapping application.
