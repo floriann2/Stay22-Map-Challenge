@@ -2,7 +2,7 @@
 
 ---
 
-# Setup
+## Setup
 
 Local web server to generate/load the data files (Using XAMPP's Apache HTTP Server). Otherwise, please see below.  
 
